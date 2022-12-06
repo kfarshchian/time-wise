@@ -10,7 +10,7 @@ The website is a daily planner. The page will display the current date and time 
 All files and folders will be needed for the application to run. 
 
 ## Usage
-
+https://kfarshchian.github.io/time-wise/
 ![alttext](assets/images/site.png)
 
 ## Credits
